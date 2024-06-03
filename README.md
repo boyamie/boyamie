@@ -37,7 +37,7 @@
   </a>
   <a href="codehyun17@gmail.com">
     <img
-      src="https://img.shields.io/badge/20212908@soongsil.ac.kr-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white"/>&nbsp
+      src="https://img.shields.io/badge/codehyun17@gmail.com-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white"/>&nbsp
   </a>
   <a href="[https://blog.naver.com/boyamie]">
     <img

@@ -43,7 +43,7 @@
     <img
       src="https://img.shields.io/badge/blog-03C75A?style=for-the-badge&logo=naver&logoColor=white"/>&nbsp
   </a>
-  <a href="https://www.instagram.com/boyamie/">
+  <a href="https://www.instagram.com/boyamie_/">
     <img
       src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>&nbsp
   </a>

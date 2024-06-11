@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=400&section=header&text=Bohyun's Github&fontSize=40" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=300&section=header&text=Bohyun's Github&fontSize=50" />
 
 ![BOHYUN's GitHub stats](https://github-readme-stats.vercel.app/api?username=boyamie&show_icons=true&theme=radical)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=boyamie)](https://solved.ac/boyamie/)

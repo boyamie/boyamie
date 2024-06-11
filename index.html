@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta property="og:title" content="김보현">
+    <meta property="og:description" content="컴퓨터비전을 사랑하는 김보현입니다!">
+    <meta property="og:image" content="공유할 이미지">
+    <title>김보현 - 프로필 링크</title>
+    <style>
+        @import url('https://cdn.jsdelivr.net/gh/orioncactus/pretendard/dist/web/static/pretendard.css');
+        * {
+            font-family: "Pretendard",serif;
+        }
+        body {
+            /* background-color: #db8aca; */
+            background-color: #5ba0ab;
+        }
+        .profile {
+            width: 100px;
+            height: 100px;
+
+            border-radius: 100%;
+
+            border : 2px solid white;
+
+            background-image: url('image01.jpg');
+            background-position: center;
+            background-size: cover;
+        }
+        .main {
+            color: white;
+            font-size: 20px;
+
+            margin-top: 30px;
+            margin-bottom: 10px;
+        }
+        .sub {
+            color: white;
+            font-size: 14px;
+
+            margin-top: 0px;
+            margin-bottom: 30px;
+        }
+        .wrap {
+            width: 350px;
+            margin: 30px auto 0px auto;/*마진은 시계방향*/
+
+            display: flex;/*안에 내용물 정렬*/
+            flex-direction: column;/*row*/
+            justify-content: center;
+            align-items: center;
+        }
+        .wrap > a {
+            width: 300px;
+            height: 50px;
+
+            font-size: 14px;
+            font-weight: bold;
+            color: #5ba0ab;
+
+            background-color: white;
+            border-radius: 8px;
+
+            box-shadow: 3px 3px 5px 0px black;/*그림자*/
+           
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+
+            margin-bottom: 10px;
+            text-decoration: none;
+        }
+        .wrap > a:hover {
+            background-color: #f2f2f2;
+        }
+    </style>
+</head>
+<body>
+    <div class="wrap">
+        <div class="profile"></div>
+        <h1 class="main">김보현</h1>
+        <p class="sub">컴퓨터비전을 사랑하는 김보현입니다!</p>
+        <a target="_blank" href="https://velog.io/@boyamie_/">velog</a>
+        <a target="_blank" href="https://github.com/boyamie">깃허브 URL</a>
+    </div>
+</body>
+</html>

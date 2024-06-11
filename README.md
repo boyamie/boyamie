@@ -50,7 +50,7 @@
   </a>
 </div>
 
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=300&section=footer"/>
 <!--
 
 Here are some ideas to get you started:

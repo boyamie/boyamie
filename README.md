@@ -1,9 +1,6 @@
+<div align="center">
 ![BOHYUN's GitHub stats](https://github-readme-stats.vercel.app/api?username=boyamie&show_icons=true&theme=radical)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=boyamie)](https://solved.ac/boyamie/)
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=boyamie&show_icons=true&theme=radical" />
-
 
 <h3 align="center">✨ Tech Stack ✨</h3>
 

@@ -1,4 +1,7 @@
 <div align="center">
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=백준아이디)](https://solved.ac/boyamie/)
+
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=boyamie&show_icons=true&theme=radical" />
 
 

@@ -1,3 +1,6 @@
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=slice&type=transparent&color=0:B3EB50,100:429421&text=BOHYUN"/>&nbsp
+
 ![BOHYUN's GitHub stats](https://github-readme-stats.vercel.app/api?username=boyamie&show_icons=true&theme=radical)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=boyamie)](https://solved.ac/boyamie/)
 

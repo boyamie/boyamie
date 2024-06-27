@@ -40,7 +40,7 @@
     <img
       src="https://img.shields.io/badge/codehyun17@gmail.com-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white"/>&nbsp
   </a>
-  <a href="[https://blog.naver.com/boyamie]">
+  <a href="https://blog.naver.com/boyamie">
     <img
       src="https://img.shields.io/badge/blog-03C75A?style=for-the-badge&logo=naver&logoColor=white"/>&nbsp
   </a>

@@ -1,6 +1,5 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=429421&FontSize=20&text=KIMBOHYUN&animation=blink"/>&nbsp
-
 🔭 I’m currently working on ComputerVisionLab.
 
 🌱 I’m currently learning ComputerScience, ComputerVision.

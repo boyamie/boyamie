@@ -1,6 +1,12 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=429421&FontSize=20&text=KIMBOHYUN&animation=blink"/>&nbsp
 
+- 🔭 I’m currently working on ComputerVisionLab
+- 🌱 I’m currently learning ComputerScience, ComputerVision
+- 💡 Next, I want to study depth estimation.
+- 🐾 I like to do cardio and weight training
+- ⭐ I want to become a developer(applying and developing computer vision AI technology for 🛸drone🛸 visual processing.)
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=boyamie)](https://solved.ac/boyamie/)
 
 <h3 align="center">✨ Tech Stack ✨</h3>
@@ -43,10 +49,6 @@
   <a href="https://blog.naver.com/boyamie">
     <img
       src="https://img.shields.io/badge/blog-03C75A?style=for-the-badge&logo=naver&logoColor=white"/>&nbsp
-  </a>
-  <a href="https://www.instagram.com/boyamie_/">
-    <img
-      src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>&nbsp
   </a>
 </div>
 

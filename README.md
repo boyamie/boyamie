@@ -1,11 +1,16 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=429421&FontSize=20&text=KIMBOHYUN&animation=blink"/>&nbsp
 
-🔭 I’m currently working on ComputerVisionLab
-🌱 I’m currently learning ComputerScience, ComputerVision
+🔭 I’m currently working on ComputerVisionLab.
+
+🌱 I’m currently learning ComputerScience, ComputerVision.
+
 💡 Next, I want to study depth estimation.
-🐾 I like to do cardio and weight training
-⭐ I want to become a developer
+
+🐾 I like to do cardio and weight training.
+
+⭐ I want to become a developer.
+
 applying and developing computer vision AI technology for 🛸drone🛸 visual processing.
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=boyamie)](https://solved.ac/boyamie/)

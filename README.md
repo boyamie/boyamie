@@ -7,7 +7,7 @@
 
 💡 Next, I want to study depth estimation.
 
-⭐ I want to become a developer. In the future, I will apply and develop computer vision AI technology for 🛸drone🛸 visual processing.
+⭐ I want to become a developer. In the future, I will apply and develop computer vision AI technology for drone visual processing.
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=boyamie)](https://solved.ac/boyamie/)
 

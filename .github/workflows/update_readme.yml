@@ -36,3 +36,9 @@ jobs:
         git add README.md
         git commit -m 'Update latest posts in README'
         git push
+
+        git config --global user.name 'github-actions[bot]'
+        git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+        git add README.md
+        git commit -m 'Update latest posts in README'
+        git push

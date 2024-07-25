@@ -20,7 +20,7 @@ else:
     existing_content = ""
 
 # 새로운 Markdown 텍스트 초기화
-new_posts = "\n## 📝 Latest Posting\n"
+new_posts = "\n## My footprint\n"
 
 # 블로그 게시물 추가
 for idx, feed in enumerate(RSS_FEED['entries']):
@@ -30,7 +30,7 @@ for idx, feed in enumerate(RSS_FEED['entries']):
     new_posts += f"- [{time.strftime('%Y/%m/%d', feed_date)} - {feed['title']}]({feed['link']})  \n"
 
 # 기존 내용에서 기존 최신 포스트 부분을 제거하고 새로운 포스트 부분을 추가합니다.
-start_marker = "## 📝 Latest Posting"
+start_marker = "## My footprint"
 if start_marker in existing_content:
     existing_content = existing_content.split(start_marker)[0]
 

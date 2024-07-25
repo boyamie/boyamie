@@ -3,7 +3,7 @@ import time
 import os
 
 # RSS 피드 URL
-RSS_URL = "https://velog.io/@boyamie_/posts"  # 실제 RSS 피드 URL로 변경하세요
+RSS_URL = "https://velog.io/@boyamie_/rss"  # 실제 RSS 피드 URL로 변경하세요
 
 # RSS 피드에서 항목을 가져옵니다.
 RSS_FEED = feedparser.parse(RSS_URL)

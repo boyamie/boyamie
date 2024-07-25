@@ -9,7 +9,7 @@
 
 ⭐ I want to become a world class fun cool sexy CV domain AI developer.
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=boyamie)](https://solved.ac/boyamie/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=boyamie)](https://solved.ac/boyamie/)<img src="http://mazandi.herokuapp.com/api?handle=boyamie&theme=warm"/>
 
 <h3 align="center">✨ Tech Stack ✨</h3>
 

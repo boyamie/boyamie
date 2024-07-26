@@ -7,7 +7,7 @@
 
 💡 Next, I want to study depth estimation.
 
-⭐ I want to become a world class fun cool sexy CV domain AIresearcher.
+⭐ I want to become a world class fun cool sexy CV domain AI Researcher
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=boyamie)](https://solved.ac/boyamie/)<img src="http://mazandi.herokuapp.com/api?handle=boyamie&theme=warm"/>
 

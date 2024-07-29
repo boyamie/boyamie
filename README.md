@@ -1,14 +1,6 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=429421&FontSize=20&text=KIMBOHYUN&animation=blink"/>&nbsp
-  
-🔭 I’m currently working on ComputerVisionLab in PNU.
-
 🌱 I’m currently learning ComputerScience, ComputerVision.
-
-💡 Next, I want to study depth estimation.
-
-⭐ I want to become a world class fun cool sexy CV domain AI Researcher
-
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=boyamie)](https://solved.ac/boyamie/)<img src="http://mazandi.herokuapp.com/api?handle=boyamie&theme=warm"/>
 
 <h3 align="center">✨ Tech Stack ✨</h3>

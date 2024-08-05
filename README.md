@@ -4,7 +4,7 @@
 	    <br>
   <a href="https://boyamie.github.io/">
     <img
-      src="https://img.shields.io/badge/NaverBoostcampAITechDiary-03C75A?style=for-the-badge&logo=Naver&logoColor=white">&nbsp
+      src="https://img.shields.io/badge/NaverBoostcampAITechDiary-03C75A?style=for-the-badge&logo=Naver&logoColor=white"
     <br>
 </div>
 <h3 align="center">📫 Contact 📫</h3>

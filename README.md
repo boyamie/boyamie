@@ -14,6 +14,11 @@
   <a href="https://blog.naver.com/boyamie">
     <img
       src="https://img.shields.io/badge/blog-03C75A?style=for-the-badge&logo=naver&logoColor=white"/>&nbsp
+<a href="https://instagram.com/boyamie_">
+    <img 
+        src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://instagram.com/boyamie_/"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
 
 </div>
 <br>

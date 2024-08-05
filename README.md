@@ -4,16 +4,16 @@
 	    <br>
   <a href="https://boyamie.github.io/">
     <img
-      src="https://img.shields.io/badge/NaverBoostcampAITechDiary-03C75A?style=for-the-badge&logo=Naver&logoColor=white"
+      src="https://img.shields.io/badge/NaverBoostcampAITechDiary-03C75A?style=for-the-badge&logo=Naver&logoColor=white" />&nbsp
     <br>
 </div>
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
   <a href="https://velog.io/@boyamie_/posts">
-    <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white"
+    <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />&nbsp
   <a href="https://blog.naver.com/boyamie">
     <img
-      src="https://img.shields.io/badge/blog-03C75A?style=for-the-badge&logo=naver&logoColor=white"
+      src="https://img.shields.io/badge/blog-03C75A?style=for-the-badge&logo=naver&logoColor=white" />&nbsp
 <a href="https://instagram.com/boyamie_">
     <img 
         src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://instagram.com/boyamie_/"

@@ -7,8 +7,6 @@
       src="https://img.shields.io/badge/NaverBoostcampAITechDiary-03C75A?style=for-the-badge&logo=Naver&logoColor=white">&nbsp
     <br>
 </div>
-<br>
-
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
   <a href="https://velog.io/@boyamie_/posts">
@@ -18,6 +16,7 @@
       src="https://img.shields.io/badge/blog-03C75A?style=for-the-badge&logo=naver&logoColor=white"/>&nbsp
 
 </div>
+<br>
 	  
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=boyamie)](https://solved.ac/boyamie/)<img src="http://mazandi.herokuapp.com/api?handle=boyamie&theme=warm"/>
 

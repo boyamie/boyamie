@@ -7,6 +7,12 @@
       src="https://img.shields.io/badge/NaverBoostcampAITechDiary-03C75A?style=for-the-badge&logo=Naver&logoColor=white">&nbsp
     <br>
 </div>
+<br>
+
+<h3 align="center">📫 Contact 📫</h3>
+<div align="center">
+
+</div>
 	  
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=boyamie)](https://solved.ac/boyamie/)<img src="http://mazandi.herokuapp.com/api?handle=boyamie&theme=warm"/>
 
@@ -36,10 +42,6 @@
 <!--   <img src="https://img.shields.io/badge/Colab-2C2C32.svg?style=for-the-badge&logo=googlecolab&logoColor=F9AB00" />&nbsp -->
 </div>
 
-<br>
-
-<h3 align="center">📫 Contact 📫</h3>
-<div align="center">
   <a href="https://velog.io/@boyamie_/posts">
     <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />&nbsp
   <a href="https://blog.naver.com/boyamie">

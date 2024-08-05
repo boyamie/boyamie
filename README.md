@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=429421&FontSize=20&text=KIMBOHYUN&animation=blink"/>&nbsp
+  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=429421&FontSize=20&text=KIMBOHYUN&animation=blink"
 🌱 I’m currently learning ComputerScience, ComputerVision.
 	    <br>
   <a href="https://boyamie.github.io/">
@@ -10,10 +10,10 @@
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
   <a href="https://velog.io/@boyamie_/posts">
-    <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />&nbsp
+    <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white"
   <a href="https://blog.naver.com/boyamie">
     <img
-      src="https://img.shields.io/badge/blog-03C75A?style=for-the-badge&logo=naver&logoColor=white"/>&nbsp
+      src="https://img.shields.io/badge/blog-03C75A?style=for-the-badge&logo=naver&logoColor=white"
 <a href="https://instagram.com/boyamie_">
     <img 
         src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://instagram.com/boyamie_/"

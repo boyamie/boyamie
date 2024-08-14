@@ -7,18 +7,9 @@
       src="https://img.shields.io/badge/NaverBoostcampAITechDiary-03C75A?style=for-the-badge&logo=Naver&logoColor=white" />&nbsp
     <br>
 </div>
-<h3 align="center">📫 Contact 📫</h3>
+<h3 align="center">📫 Contact 📫</h3>  
 <div align="center">
-  <a href="https://velog.io/@boyamie_/posts">
-    <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />&nbsp
-  <a href="https://blog.naver.com/boyamie">
-    <img
-      src="https://img.shields.io/badge/blog-03C75A?style=for-the-badge&logo=naver&logoColor=white" />&nbsp
-<a href="https://instagram.com/boyamie_">
-    <img 
-        src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://instagram.com/boyamie_/"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a>
+	<a href="https://velog.io/@boyamie_/posts" target="_blank"><img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white"/></a> <a href="https://blog.naver.com/boyamie" target="_blank"><img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white"/></a> <a href="https://instagram.com/boyamie_/?hl=ko" target="_blank"><img src="https://img.shields.io/badge/boyamie_-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 
 </div>
 <br>

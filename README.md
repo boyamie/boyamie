@@ -10,6 +10,19 @@
 
 </div>
 
+**Views**
+
+<img src="https://profile-counter.glitch.me/boyamie/count.svg" width="240px" />
+<!-- ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjagaldol) -->
+
+## ⚙️ Technologies and Skills
+
+<picture>
+    <source media="(prefers-color-scheme: dark)"  srcset="https://github-readme-stats.vercel.app/api/wakatime?username=boyamie&layout=compact&theme=blue_navy&hide_border=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=boyamie&layout=compact&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=boyamie&layout=compact&hide_border=true" alt="Wakatime Coding Time" />
+</picture>
+
 <!--
 
 Here are some ideas to get you started:

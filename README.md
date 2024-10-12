@@ -14,7 +14,7 @@
 
 </div>
 <div align="center">
-<a href="https://dg-docs.ole.dev/" target="_blank"><img src="https://img.shields.io/badge/Bohyun's AI Tech Blog-2E8B57?style=for-the-badge&logo=Tree&logoColor=white"/></a>	
+<a href="https://bohyun-mu.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Bohyun's AI Tech Blog-2E8B57?style=for-the-badge&logo=Tree&logoColor=white"/></a>	
 </div>
 <!-- ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjagaldol) -->
 

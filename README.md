@@ -12,6 +12,9 @@
 
 <img src="https://profile-counter.glitch.me/boyamie/count.svg" width="240px" />
 
+# Github Stats
+![boyamie log](https://github-readme-stats.vercel.app/api?username=boyamie&theme=blueberry&show_icons=true)
+
 </div>
 <div align="center">
 <a href="https://bohyun-mu.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Bohyun's AI Tech Blog-2E8B57?style=for-the-badge&logo=Tree&logoColor=white"/></a>	

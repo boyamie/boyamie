@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=429421&FontSize=20&text=KIMBOHYUN&animation=blink"
-	    <br>
-
  <h3 align="center">💡 Project 💡</h3> 
   <a href="https://boyamie.github.io/"><img src="https://img.shields.io/badge/NaverBoostcampAITechDiary-03C75A?style=for-the-badge&logo=Naver&logoColor=white" /></a>
     <br>
